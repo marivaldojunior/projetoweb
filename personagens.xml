@@ -1,0 +1,100 @@
+<personagens>
+    <personagem codigo="1">
+        <nome> Jennifer Aniston - Rachel Green </nome>
+        <descricao>
+        Era uma mulher rica e mimada que, após abandonar o noivo no altar,
+		foi morar com Mônica, uma amiga do colegial. O primeiro trabalho de Rachel foi como garçonete no café Central Perk,
+		se tornando, posteriormente, uma vendedora na Bloomingdale's e na Ralph Lauren, na quinta temporada. Vivia uma relação instável com Ross,
+		na qual tiveram uma filha, Emma. Rachel, apesar de ser inicialmente dependente da família,
+		durante o seriado amadurece e passa a ser uma mulher independente. No último episódio da 10ª temporada,
+		desiste de sua viagem a trabalho e passa a namorar novamente Ross.
+        </descricao>
+    </personagem>
+    <personagem codigo="2">
+        <nome> Courteney Cox - Monica Geller </nome>
+        <descricao>
+        Irmã de Ross e chef de cozinha,é obsessiva-compulsiva por limpeza e tem um espírito competitivo.
+		Durante a adolescência, era obesa, o que é motivo de lembranças ruins e neuroses.
+		Todos os personagens gostam de se encontrar no seu apartamento. Apesar dos defeitos, ela é a anfitriã-mor da série.
+		Começa a namorar Chandler e se casa com ele na sétima temporada do programa. Na décima temporada,
+		adotam dois filhos por uma barriga de aluguel, uma adolescente que engravidou por acidente e não sabia que teria gêmeos.        
+        </descricao>
+    </personagem>
+    <personagem codigo="3">
+        <nome> Lisa Kudrow - Phoebe Buffay </nome>
+        <descricao>
+        Saiu de casa aos 14 anos, e foi moradora de rua antes de conhecer seus amigos. Excêntrica e vegetariana,
+		sua mãe se suicidou, e seu pai abandonou a família. Ela e sua irmã gêmea, Ursula, se odeiam.
+		Conheceu seu meio-irmão, Frank, e aceitou ser "barriga de aluguel" para ele. Trabalha como musicista (criando músicas como "Gato Fedorento/Smelly Cat")
+		e massagista. Na temporada final, ela se casa com Mike Hannigan, interpretado por Paul Rudd.
+        </descricao>
+    </personagem>
+    <personagem codigo="4">
+        <nome> Matthew Perry - Chandler Bing </nome>
+        <descricao>
+        Foi um processador de dados (emprego esse desconhecido pelos seus amigos) e odiava esse trabalho até que, na 9ª temporada,
+        ele finalmente teve coragem de se demitir para trabalhar com publicidade (trabalho de que ele gostava de verdade).
+        Ele é o mais cômico dos personagens, e conhecido por seu humor sarcástico. É questionado sobre sua sexualidade e tem um pai travesti,
+        o que aumenta ainda mais os rumores sobre sua sexualidade. Sua mãe é uma famosa escritora de romances adultos.
+        </descricao>
+    </personagem>
+    <personagem codigo="5">
+        <nome>  David Schwimmer - Ross Geller </nome>
+        <descricao>
+        Irmão mais velho de Monica, é um paleontólogo que ama dinossauros e que se divorciou três vezes durante o seriado:
+		da lésbica Carol (que lhe deu seu primeiro filho, Ben), da britânica Emily (cujo nome ele trocou pelo de Rachel no dia do casamento),
+		e de Rachel (casaram-se bêbados em Las Vegas).
+		Rachel e Ross tiveram uma filha juntos, Emma. É muito inteligente e apaixonado por Rachel desde o colegial.
+        </descricao>
+    </personagem>
+    <personagem codigo="6">
+        <nome> Matt LeBlanc - Joey Tribbiani </nome>
+        <descricao>
+        É um ator ítalo-americano que se torna famoso por seu papel na telenovela Days of our Lives como doutor Drake Ramoray.Tornou-se companheiro de quarto de Chandler. Possui um cômico raciocínio lento, fome enorme e adoração por pizza.
+		Tenta conquistar toda mulher que aparece em sua frente com sua famosa frase "How you doing?". Nutriu um amor por Rachel que foi superado.
+        </descricao>
+    </personagem>
+    <personagem codigo="7">
+        <nome> Dr. Drake Ramoray </nome>
+        <descricao>
+        Drake Ramoray era um neurocirurgião que trabalhava no hospital fictício de Days of Our Lives . 
+		Ele foi apresentado pela primeira vez em " Aquele com Russ " e foi visto pela primeira vez em " 
+		Aquele com o casamento lésbico ". Sua passagem pelo programa terminou quando Joey irritou seus 
+		escritores depois de dizer a um entrevistador que ele escreveu muitas de suas próprias falas. 
+		Drake era " morto "em" Aquele onde o Dr. Ramoray morre "ao cair de um poço de elevador, 
+		o personagem sendo deixado em coma potencialmente permanente com danos cerebrais tão graves que, supostamente, 
+		o próprio Drake foi a única pessoa que poderia ter tratado o dano.
+        </descricao>
+    </personagem>
+    <personagem codigo="8">
+        <nome> Dr. Drake Ramoray - Jessica Lockhart </nome>
+        <descricao>
+        Drake foi trazido de volta após um transplante de cérebro . Seu novo cérebro era da personagem Jessica Lockhart , 
+		interpretada por Susan Sarandon . Lockhart morreu de uma lesão a cavalo, com seu cérebro sendo transplantado para 
+		o coma Drake Ramoray (foi inicialmente afirmado que isso resultou em Jessica no corpo de Drake, mas algumas cenas 
+		posteriores sugerem que Drake simplesmente compartilha a personalidade e as 
+		memórias de Jessica em vez de se tornar sua completamente como o elenco ainda se refere a ele como Drake).
+        </descricao>
+    </personagem>
+    <personagem codigo="9">
+        <nome> Gunther </nome>
+        <descricao>
+        Gunther foi um personagem interpretado por James Michael Tyler. Gunther era o gerente do Central Perk, 
+	    Café onde os personagens da série se encontravam e passavam boa parte do tempo.
+		Ao longo da série surgiu a indefectível paixão de Gunther por Rachel. Ele frequentemente fantasiava sobre casar-se 
+		com ela e um dia deixou escapar a Joey que o melhor de trabalhar no Central Perk era admirá-la o dia inteiro. 
+		Na despedida de solteiro de Ross, quando às vésperas de se casar com Emily Waltham, Gunther o agradeceu por 
+		não ter se casado com Rachel. No último episódio, 
+		ele tem sua redenção declarando-se a Rachel antes dela mudar-se para Paris. Ela educadamente o rejeitou.
+        </descricao>
+    </personagem>
+    <personagem codigo="10">
+        <nome> Ursula Pamela Buffay </nome>
+        <descricao>
+        Ursula e sua irmã gêmea Phoebe foram o resultado de um relacionamento sexual entre Phoebe Abbott , Frank Buffay e Lily Buffay. Uma assustada Phoebe Abbott não estava pronta para ser mãe, 
+        então ela as deu a Lily após o parto. Lily adotou os dois gêmeos e ela e Frank os criaram juntos. Mais tarde, Frank abandonou Lily e os gêmeos e Lily se casou com outro homem. Então o marido de Lily foi para a prisão, 
+		e Lily cometeu suicídio por envenenamento por monóxido de carbono. Ursula se envolveu enquanto Phoebe terminava nas ruas.No futuro não mantém uma boa relação com sua irmã, chegando até a se tornar atriz pornô, 
+        utilizando o nome de sua irmã como nome artistico.
+        </descricao>
+    </personagem>
+</personagens>

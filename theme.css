@@ -1,0 +1,226 @@
+body {
+  margin: 0;
+  font-family: fontFriends;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #9A4FCF;
+
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #745FB5;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #745FB5;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+header{
+	max-width: 100%;
+	height: 100px;
+	background-color: #745FB5;
+}
+@font-face {
+     font-family: fontfriends;
+     src: url('recursos/font/fontfriends.TTF');
+}
+body{
+	width: 100%;
+	height: auto;
+	display: table;
+}
+section{
+}
+header{
+	display: block;
+}
+body { background-color:#745FB5; }
+p { 
+font: 20px Time New Romans;
+font-size:15pt;
+margin-left:15px; }
+h1,h2,h3,h4{
+	font:15px fontfriends;
+	color:white;
+	font-size: 15px;
+	margin: 10px;
+}
+footer{
+	display: block;
+}
+section{
+	display: block;
+}
+#resumo{
+	display: table;
+  	height: auto;
+  	width: auto;
+  	border: 1px solid #854FCF;
+  	padding: 50px;
+  	margin: 0 auto;
+  	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+#localizacao{
+	display: inline-block;
+  	height: 100%;
+  	width: auto;
+  	border: 1px solid #854FCF;
+  	padding: 50px;
+  	margin: 0 auto;
+  	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+#contato{
+	display: flex;
+  	max-width: 100%;
+  	height: auto;
+  	border: 1px solid #854FCF;
+  	padding: 50px;
+  	margin: 0 auto;
+  	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+.noticia{
+	display: block;
+	max-width: 100%;
+	height: auto;
+	border: 1px solid #854FCF;
+	padding: 50px;
+	margin: 0 auto;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+.imagem{
+	display: flex; 
+	float: left;
+	height: auto;
+	max-width: 100%;
+	margin: 0 auto;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+	/*background-image: url('recursos/back2.png');  Carrega a imagem de fundo 
+	background-repeat: no-repeat; Faz com que não haja repetição
+	background-size: contain; */
+}
+.titulo{
+	display: flex;
+	margin: 0 auto;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+	text-align: center;
+}
+.conteudo{
+	display:flex;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+#personagens{
+	margin-right: auto;
+	margin-left:auto;
+	width: 100%;
+	height: auto;
+	flex-wrap: wrap;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+#temporadas{
+	margin-right: auto;
+	margin-left:auto;
+	width: 100%;
+	height: auto;
+	flex-wrap: wrap;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+/*img {
+max-width: 100%;
+height: auto;
+} */
+.container {
+  position: relative;
+  width: calc(50% - 10px);
+  height: calc(20% - 10px);
+  float: left;
+}
+.containerTemp {
+  position: relative;
+  width: calc(20% - 10px);
+  height: calc(50% - 10px);
+  float: left;
+}
+
+.image {
+	margin-right: auto;
+	margin-left:auto;
+  display: flex;
+  max-width: 100%;
+  height: auto;
+}
+.overlay {
+  float: left;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: auto;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #745FB5;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+.containerTemp:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
